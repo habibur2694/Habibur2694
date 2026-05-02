@@ -58,40 +58,13 @@ I have a strong interest in software development, machine learning, data analysi
   <img src="https://skillicons.dev/icons?i=vscode,postman,latex" />
 </p>
 
----
 
-## 🎓 Education
 
-**Bachelor of Science in Computer Science & Engineering**  
-United International University, Dhaka, Bangladesh  
-**2020 - 2025**
 
----
-
-## 💼 Experience
-
-### Computer Trainer  
-**Akhter Classical Computer**  
-**2016 - 2017**
-
-- Developed comprehensive training materials
-- Assessed learning needs
-- Monitored progress and provided feedback
-
-### Head of Media Communication  
-**UIU APP Forum**  
-**2021 - 2022**
-
-- Led media communication activities
-- Planned and managed digital content
-- Supported public relations and communication strategies
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibur2694&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -99,7 +72,6 @@ United International University, Dhaka, Bangladesh
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibur2694&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
