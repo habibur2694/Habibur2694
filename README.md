@@ -28,10 +28,11 @@ I have a strong interest in software development, machine learning, data analysi
 
 <p align="left">
   <a href="https://www.linkedin.com/in/habibur2694/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/habibur2694" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
@@ -40,63 +41,50 @@ I have a strong interest in software development, machine learning, data analysi
 ## 🛠️ Skills and Technologies
 
 ### Programming Languages
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,php,python,java,c,cpp,html,css" />
 </p>
 
 ### Frameworks and Tools
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django,flask,mysql,postgres,git,github,figma" />
+</p>
+
+### Other Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,latex" />
 </p>
 
 ---
 
-## 🚀 Academic Projects
+## 🎓 Education
 
-### UIUeCaffe
-A convenient ordering platform for United International University that allows users to place orders from any counter, floor, or campus location.
-
-**Technologies:** PHP, MySQL, XAMPP, JavaScript, HTML, CSS
-
-### UIUNewsBox
-A platform where users can post comments and stay updated on club activities within the UIU campus.
-
-**Technologies:** PHP, MySQL, JavaScript, XAMPP, HTML, CSS
-
-### House Price Prediction
-A web-based platform that predicts house prices using a trained machine learning model.
-
-**Technologies:** Flask, HTML, CSS, Machine Learning
-
-### Bin Automator
-An IoT-based waste management project using Arduino Uno and ESP32 to automatically separate metal, organic, and plastic waste through sensors.
-
-**Technologies:** Arduino Uno, ESP32, IoT, Sensors
-
-### Poultry Market Price Monitoring
-A web-based system for tracking and analyzing poultry market prices across Bangladesh. It includes live dashboards, regional comparisons, historical price charts, price alerts, smart recommendations, and notices from government sites.
-
-**Technologies:** PHP, MySQL, HTML, CSS, Chart.js
+**Bachelor of Science in Computer Science & Engineering**  
+United International University, Dhaka, Bangladesh  
+**2020 - 2025**
 
 ---
 
-## 📄 Publication
+## 💼 Experience
 
-**Predicting Crop Prices using Machine Learning Algorithms for Sustainable Agriculture**  
-IEEE Region 10 Symposium — TENSYMP 2024, Netaji Subhas University of Technology, New Delhi.
+### Computer Trainer  
+**Akhter Classical Computer**  
+**2016 - 2017**
+
+- Developed comprehensive training materials
+- Assessed learning needs
+- Monitored progress and provided feedback
+
+### Head of Media Communication  
+**UIU APP Forum**  
+**2021 - 2022**
+
+- Led media communication activities
+- Planned and managed digital content
+- Supported public relations and communication strategies
 
 ---
 
