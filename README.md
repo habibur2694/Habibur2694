@@ -30,10 +30,7 @@ I have a strong interest in software development, machine learning, data analysi
   <a href="https://www.linkedin.com/in/habibur2694/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/habibur2694" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+
 </p>
 
 ---
